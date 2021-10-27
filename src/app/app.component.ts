@@ -22,6 +22,10 @@ export class AppComponent {
   }
 
   ngOnInit() {
+    this.getJoke();
+  }
+
+  getJoke() {
     this.data.giveMeJokes().subscribe((res) => {
       this.joke = res;
     });
