@@ -1,0 +1,90 @@
+{
+  "configVersion": 1,
+  "timestamp": 1635338693561,
+  "index": "/angular-pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/angular-pwa/favicon.ico",
+        "/angular-pwa/index.html",
+        "/angular-pwa/main-es2015.657d14ac107087403bb7.js",
+        "/angular-pwa/main-es2015.b4e0de4f9365b3d0d9d6.js",
+        "/angular-pwa/main-es5.657d14ac107087403bb7.js",
+        "/angular-pwa/main-es5.b4e0de4f9365b3d0d9d6.js",
+        "/angular-pwa/manifest.webmanifest",
+        "/angular-pwa/ngsw-worker.js",
+        "/angular-pwa/polyfills-es2015.1f913f16a2d346cc8bdc.js",
+        "/angular-pwa/polyfills-es5.1a3c78b07cd6f16c6e9a.js",
+        "/angular-pwa/runtime-es2015.0811dcefd377500b5b1a.js",
+        "/angular-pwa/runtime-es5.0811dcefd377500b5b1a.js",
+        "/angular-pwa/safety-worker.js",
+        "/angular-pwa/styles.3ff695c00d717f2d2a11.css",
+        "/angular-pwa/worker-basic.min.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/angular-pwa/assets/icons/icon-128x128.png",
+        "/angular-pwa/assets/icons/icon-144x144.png",
+        "/angular-pwa/assets/icons/icon-152x152.png",
+        "/angular-pwa/assets/icons/icon-192x192.png",
+        "/angular-pwa/assets/icons/icon-384x384.png",
+        "/angular-pwa/assets/icons/icon-512x512.png",
+        "/angular-pwa/assets/icons/icon-72x72.png",
+        "/angular-pwa/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/angular-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/angular-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/angular-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/angular-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/angular-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/angular-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/angular-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/angular-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/angular-pwa/index.html": "22af6624e49ddd0a2eaa85654e273b15f30f013d",
+    "/angular-pwa/main-es2015.657d14ac107087403bb7.js": "d055326a2567508ca1f26f35b7ff2863e6042c85",
+    "/angular-pwa/main-es2015.b4e0de4f9365b3d0d9d6.js": "1f138bae3ea5342f258aa05f73994ece8b585996",
+    "/angular-pwa/main-es5.657d14ac107087403bb7.js": "8eab8923d82cf8a81c31c719460a4be5ed62eeb3",
+    "/angular-pwa/main-es5.b4e0de4f9365b3d0d9d6.js": "f8f024e6eb0755898742fb2b4f7d6fb1ba071bd6",
+    "/angular-pwa/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
+    "/angular-pwa/ngsw-worker.js": "3798e7f10ebdd6f55cacf4010af1fe5085cf6c16",
+    "/angular-pwa/polyfills-es2015.1f913f16a2d346cc8bdc.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/angular-pwa/polyfills-es5.1a3c78b07cd6f16c6e9a.js": "61aa6b50157596c4e9c7eff44cfe76b22836d5a3",
+    "/angular-pwa/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/angular-pwa/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/angular-pwa/safety-worker.js": "ae5c8be3955e38edeeec09ed94b63d1e57f003c9",
+    "/angular-pwa/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/angular-pwa/worker-basic.min.js": "ae5c8be3955e38edeeec09ed94b63d1e57f003c9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
